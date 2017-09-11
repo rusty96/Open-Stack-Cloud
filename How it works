@@ -1,0 +1,112 @@
+OpenStack is a cloud operating system that controls large pools of compute, storage, and networking resources throughout a datacenter, all managed through a dashboard that gives administrators control while empowering their users to provision resources through a web interface.
+
+Compute ( 6 Results )
+
+ NOVA
+Compute Service
+ GLANCE
+Image Service
+ IRONIC
+Bare Metal Provisioning Service
+ MAGNUM
+Container Orchestration Engine Provisioning
+ STORLETS
+Computable Object Store
+ ZUN
+Container Management Service
+Storage, Backup & Recovery ( 5 Results )
+
+ SWIFT
+Object Store
+ CINDER
+Block Storage
+ MANILA
+Shared Filesystems
+ KARBOR
+Application Data Protection as a Service
+ FREEZER
+Backup, Restore, and Disaster Recovery
+Networking & Content Delivery ( 7 Results )
+
+ NEUTRON
+Networking
+ DESIGNATE
+DNS Service
+ DRAGONFLOW
+Neutron Plugin
+ KURYR
+Container plugin
+ OCTAVIA
+Load Balancer
+ TACKER
+NFV Orchestration
+ TRICIRCLE
+Networking Automation for Multi-Region Deployments
+Data & Analytics ( 3 Results )
+
+ TROVE
+Database as a Service
+ SAHARA
+Big Data Processing Framework Provisioning
+ SEARCHLIGHT
+Indexing and Search
+Security, Identity & Compliance ( 4 Results )
+
+ KEYSTONE
+Identity service
+ BARBICAN
+Key Management
+ CONGRESS
+Governance
+ MISTRAL
+Workflow service
+Management Tools ( 6 Results )
+
+ HORIZON
+Dashboard
+ OPENSTACK CLIENT (CLI)
+Command-line client
+ RALLY
+Benchmark service
+ SENLIN
+Clustering service
+ VITRAGE
+RCA (Root Cause Analysis service)
+ WATCHER
+Optimization Service
+Deployment Tools ( 6 Results )
+
+ CHEF OPENSTACK
+Chef cookbooks for OpenStack
+ KOLLA
+Container deployment
+ OPENSTACK CHARMS
+Juju Charms for OpenStack
+ OPENSTACKANSIBLE
+Ansible Playbooks for OpenStack
+ PUPPET OPENSTACK
+Puppet Modules for OpenStack
+ TRIPLEO
+Deployment service
+Application Services ( 4 Results )
+
+ HEAT
+Orchestration
+ ZAQAR
+Messaging Service
+ MURANO
+Application Catalog
+ SOLUM
+Software Development Lifecycle Automation
+Monitoring & Metering ( 5 Results )
+
+ CEILOMETER
+Metering & Data Collection Service
+ CLOUDKITTY
+Billing and chargebacks
+ MONASCA
+Monitoring
+ AODH
+Alarming Service
+ PANKO
+Event, Metadata Indexing Service
